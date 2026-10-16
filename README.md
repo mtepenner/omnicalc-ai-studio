@@ -43,7 +43,7 @@
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/your-username/omnicalc-ai-studio.git](https://github.com/your-username/omnicalc-ai-studio.git)
+   git clone [https://github.com/mtepenner/omnicalc-ai-studio.git](https://github.com/mtepenner/omnicalc-ai-studio.git)
    cd omnicalc-ai-studio
    ```
 
